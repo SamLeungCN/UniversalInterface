@@ -1,0 +1,2 @@
+# UniversalInterface
+android万能interface，用于进程间通信，例如activity与activity，fragment与fragment，fragment与activity间通信。
